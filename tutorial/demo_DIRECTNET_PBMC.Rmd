@@ -45,7 +45,7 @@ options(stringsAsFactors = FALSE)
 ```
 
 ## Load data
-The scRNA and scATAC-seq datasets we demonstrated here, including two count data matrices for PBMC, can be downloaded via this shared Google Drive [link](https://drive.google.com/drive/folders/1kzGRZS831JFX0edbK5l_JlKU3gN8353V?usp=sharing).
+The scRNA and scATAC-seq datasets we demonstrated here, including two count data matrices for PBMC, can be downloaded via this shared link [link](https://figshare.com/articles/dataset/single_cell_multiomics_data_of_PBMC/27312057?file=50019351).
 
 ```{r, warning=FALSE}
 library(hdf5r)
