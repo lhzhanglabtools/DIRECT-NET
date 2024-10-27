@@ -13,7 +13,7 @@ devtools::install_github("zhanglhbioinfor/DIRECT-NET")
 ```
  
 ### Installation of other dependencies
-- Install Signac pacakge : ```devtools::install_github("timoast/signac", ref = "develop")```. Please check [here](https://satijalab.org/signac/articles/install.html#development-version-1) if you encounter any issue.
+- Install Signac pacakge : ```devtools::install_github("timoast/signac", ref = "develop")```. Please check [here](https://stuartlab.org/signac/) if you encounter any issue.
 - Install Cicero package: ```devtools::install_github("cole-trapnell-lab/cicero-release", ref = "monocle3")```. Please check [here](https://cole-trapnell-lab.github.io/cicero-release/docs_m3/#installing-cicero) if you encounter any issue.
 
 ## Tutorials
